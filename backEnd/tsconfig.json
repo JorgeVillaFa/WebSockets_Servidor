@@ -1,0 +1,9 @@
+{
+    "include": ["src/**/*"],
+    "exclude": ["**/*.spec.ts"],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext"
+    },
+}
